@@ -1,8 +1,10 @@
+<!-- Plain text below -->
+
 - 👋 Hi, I’m @hersonvillatoro
 - 👀 I’m interested in building a software company with a name known in every household on Earth.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me <ul>
+- 📫 How to reach me <ul> <!-- to start a list branched off this line of code, tab is a must for branching off this line of code -->
   <li>Phone (818) 233-5372</li>
   <li>Instagram @HersonJVillatoro</li>
   <li>Linkedin "Herson Villatoro"</li>
