@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me <ul> <!-- to start a list branched off this line of code, tab is a must for branching off this line of code -->
   <li>Phone (818) 233-5372</li>
-  <li>Instagram @HersonJVillatoro</li>
+  <li><a href="https://www.instagram.com/hersonjvillatoro/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
   <li>Linkedin "Herson Villatoro"</li>
   <li>Snapchat @HersonVillatoro</li>
 </ul>
