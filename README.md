@@ -8,6 +8,7 @@
   <li>Phone (818) 233-5372</li>
   <li>Instagram @HersonJVillatoro</li>
   <li>Linkedin "Herson Villatoro"</li>
+  <li>Snapchat @HersonVillatoro</li>
 </ul>
 
 <!---
